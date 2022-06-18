@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "git": "^0.1.5",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
